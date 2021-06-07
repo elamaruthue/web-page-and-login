@@ -1,0 +1,49 @@
+
+body{
+    background-image: url(friends.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+*{
+    text-align: center;
+    
+}
+footer{
+    font-size: 20px;
+    color: blanchedalmond;
+}
+.nam{
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 200px;
+    text-align: center;
+    margin: 200px;
+    padding: 22px;
+    width: 30%;
+    height: 30px;
+    
+}
+.search{
+    margin: 50px;
+    padding: auto;
+    text-align: center;
+    height: 40px;
+    width: 70px;
+    border-radius: 200px;
+    
+}
+
+    input[type="submit"] {
+        
+        margin: -177px;
+        color: rgb(248, 248, 248);
+        margin-right: -190px;
+        background-color: rgba(0, 0, 0, 0.027);
+    }
+header{
+    margin: 0%;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
